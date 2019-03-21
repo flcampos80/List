@@ -1,0 +1,13 @@
+c:\users\leon\documents\visual studio 2015\Projects\List\List\bin\Debug\List.exe.config
+c:\users\leon\documents\visual studio 2015\Projects\List\List\bin\Debug\List.exe
+c:\users\leon\documents\visual studio 2015\Projects\List\List\bin\Debug\List.pdb
+c:\users\leon\documents\visual studio 2015\Projects\List\List\obj\Debug\List.csprojResolveAssemblyReference.cache
+c:\users\leon\documents\visual studio 2015\Projects\List\List\obj\Debug\List.exe
+c:\users\leon\documents\visual studio 2015\Projects\List\List\obj\Debug\List.pdb
+E:\2019 - 1º Semestre\ED2 - 471\Aula3_140319\List\List\obj\Debug\List.csprojResolveAssemblyReference.cache
+E:\2019 - 1º Semestre\ED2 - 471\Aula3_140319\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+E:\2019 - 1º Semestre\ED2 - 471\Aula3_140319\List\List\obj\Debug\List.exe
+E:\2019 - 1º Semestre\ED2 - 471\Aula3_140319\List\List\obj\Debug\List.pdb
+E:\2019 - 1º Semestre\ED2 - 471\Aula3_140319\List\List\bin\Debug\List.exe.config
+E:\2019 - 1º Semestre\ED2 - 471\Aula3_140319\List\List\bin\Debug\List.exe
+E:\2019 - 1º Semestre\ED2 - 471\Aula3_140319\List\List\bin\Debug\List.pdb
